@@ -1,6 +1,6 @@
-==============
-NAChat dot NET
-==============
+========================
+NAChat dot NET Chat Club
+========================
 
 About
 =====
@@ -8,11 +8,11 @@ About
 "`NAChat dot NET`" is the product of peer support efforts by and for
 individuals dealing with their own substance abuse and mental health
 disorders, and their associated issues.  We are a group of friends and
-volunteers who regularly contribute our time, talents and resources to
-promoting recovery.  This is primarily done through a web-accessible
-text-based chat network.  network where we support eachother in real
-time with regular companionship.  If you think you have a problem
-with substance abuse and would like to stop using drugs, check out
+volunteers who regularly contribute our time, talents and resources
+to promoting recovery.  This is primarily done through a text-based,
+web-accessible chat network where we support eachother in real time with
+regular companionship.  If you think you have a problem with substance
+abuse and would like to stop using drugs, check out
 `<https://www.nachat.net>`__ or `<ircs://sueserv.nachat.net>`__\.
 
 NAChat.net
