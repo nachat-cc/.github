@@ -2,6 +2,12 @@
 Content Moderation
 ==================
 
+Recovery deals with sick people, and naturally that will occasionally
+expose us to unpleasant, even malicious activities.  While we intend
+to profer all available tolerances, there are practical limits to such
+an approach.  We attempt to deal with the subject of moderating volation
+of those limits here.
+
 Entitlement
 ===========
 
@@ -47,6 +53,74 @@ place on the site, there is no "3rd tradition" or other case:
 *  The traditions are guiding principles, not binding rules or laws
 
 The seminal, or perhaps _traditional_\, `traditions are detailed here`_.
+
+Ban Policy
+==========
+
+Bannable Offenses
+-----------------
+
+Offenses that may result in a ban include but are not limited to:
+
+*  Harrassment
+*  Threats
+*  Programmatic or automated activity (bots, auto-responders, etc.)
+*  Using nicknames as messages
+*  Use of offensive language, as determined by moderators, which may or
+   may not include the opinion of the audience of the offending message
+   (i.e. non-moderator chatters other than the author of the language
+   in question)
+*  Attempts to circumvent access controls
+*  Attempts to disrupt site operation or services
+*  Disproportionate consumption of resources (e.g. "crowding out the conversation")
+*  Misuse of features
+
+Qualified determination of whether an offense warrants a ban is entirely
+at the discretion of moderators.  Moderators are under no obligation to
+recognize or enforce any bans.
+
+Scope
+-----
+
+*  Channel operators reserve the exclusive right to manage bans that
+   apply to their own channels
+*  Network operators reserve the right to enforce channel bans at the
+   network level.  Abuse in a specific channel may result in a ban from
+   the entire network
+*  Network operators reserve the right to prohibt or refuse to restrict
+   private messages on either an individual or universal basis
+*  Providers of various infrastructure services the site employs
+   (Internet, "cloud", hosting, etc.) reserve the right to moderate
+   the site's usage of their resources at the infrastructure level
+   accordingly.
+
+Duration
+--------
+
+*  The length of bans is variable, and escalates in proportion to the
+   nature of the offense
+*  The length of a particular ban may change while that ban is in effect
+*  Actions to circumvent a ban, regardless of whether they are successful,
+   will escalate the ban
+*  Bans may be enforced for whatever period of time any sufficiently
+   privileged moderator or operator deems appropriate
+
+Authority
+---------
+
+The authority of this policy is the prerogative of the owner(s) of the
+discrete resources on which the site is built (that is, whatever entity
+is funding and operating the domain registration and networked resources)
+
+Remonstration
+=============
+
+In the case of access or content that is inappropriately restricted,
+remonstration may be submitted via e-mail to site operators or the
+appropriate domain registrant contact.  In order to be considered,
+appeals must include a clear and concise justification of how the
+moderated activity contributes to the sites purpose without violating
+the devaluing the site for its other users.
 
 References
 ==========
