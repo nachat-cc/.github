@@ -9,6 +9,10 @@ Welcome to NA Chat Dot NET Chat Club's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
+
+   profile/*
+   charter/*
 
 
 
