@@ -52,7 +52,7 @@ place on the site, there is no "3rd tradition" or other case:
    decision to host their meetings elsewhere.
 *  The traditions are guiding principles, not binding rules or laws
 
-The seminal, or perhaps _traditional_\, `traditions are detailed here`_.
+The seminal, or perhaps *traditional*\, |12trad|
 
 Ban Policy
 ==========
@@ -125,17 +125,16 @@ the devaluing the site for its other users.
 References
 ==========
 
-*  Alcoholics Anonymous' (`<aa.org>`_) `The Twelve Traditions`_
+*  Alcoholics Anonymous' (`AA.org`_) `The Twelve Traditions`_
 
 Administrators
 --------------
 
-*  From the Electronic Frontier Foundation (`<EFF.org>`__): `|EFF_Article|`_
+*  From the Electronic Frontier Foundation (`EFF.org`_): |EFF_Article|
 
-.. |speechurl| replace:: https://www.legalzoom.com/articles/free-speech-primer-what-can-you-say
-.. _this accessible free speech primer: |freespeechurl|
-.. _Free Speech Primer: |freespeechurl|
-.. _traditions are detailed here: https://www.aa.org/the-twelve-traditions
+.. _this accessible free speech primer: https://www.legalzoom.com/articles/free-speech-primer-what-can-you-say
+.. |12trad| replace:: `short and long traditions <https://www.aa.org/the-twelve-traditions>`__
 .. _The Twelve Traditions: https://www.aa.org/the-twelve-traditions
-.. _|EFF_Article|: https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer
-.. |EFF_Article| replace:: User Generated Content and the Fediverse: A Legal Primer
+.. _AA.org: https://aa.org
+.. _EFF.org: https://eff.org
+.. |EFF_Article| replace:: `User Generated Content and the Fediverse: A Legal Primer <https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer>`__
