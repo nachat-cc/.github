@@ -123,6 +123,30 @@ appeals must include a clear and concise justification of how the
 moderated activity contributes to the sites purpose without violating
 the devaluing the site for its other users.
 
+Terms of Consequence Guidelines
+===============================
+
+When determining the parameters of a ban, moderators should consider
+the following points:
+
+*  Wherever possible, redirections ("chante the topic") and warnings
+   should be issued before, or in leiu of bans
+*  Warnings may be skipped for users or offenses where they have proven
+   ineffective or the offense is severe
+*  The warning should have time to be read before escalating to
+   enforcement - e.g. a message continuing an argument immediately following
+   the warning may have just been bad timing.  Two messages, or a message
+   two minutes later, can be considered refusal to heed the warning.
+*  Bans should be as short in duration as necessary - an hour may be fine
+   initially, to cool off.  Remember the point isn't to keep them from coming
+   back, it's to discourage infraction without having a "chilling effect"
+   on conversation.  Chatters should be free to speak without fear that
+   minor or accidental offenses will get them barred for weeks, months,
+   or longer.  It's also less for mods to keep track of.
+*  Bans should be no longer than 6 days, except under extenuating conditions
+*  At the network level, "soft" bans (which allow connections from users
+   able to pre-authenticate) are preferred
+
 References
 ==========
 
