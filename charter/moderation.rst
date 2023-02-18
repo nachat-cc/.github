@@ -72,7 +72,8 @@ Offenses that may result in a ban include but are not limited to:
    in question)
 *  Attempts to circumvent access controls
 *  Attempts to disrupt site operation or services
-*  Disproportionate consumption of resources (e.g. "crowding out the conversation")
+*  Disproportionate consumption of resources (e.g. flooding,
+   denial-of-service, or just "crowding out the conversation")
 *  Misuse of features
 
 Qualified determination of whether an offense warrants a ban is entirely
@@ -87,8 +88,8 @@ Scope
 *  Network operators reserve the right to enforce channel bans at the
    network level.  Abuse in a specific channel may result in a ban from
    the entire network
-*  Network operators reserve the right to prohibt or refuse to restrict
-   private messages on either an individual or universal basis
+*  Network operators reserve the right to prohibit or *refuse* to prohibit
+   private messages on either an individual or network-wide basis
 *  Providers of various infrastructure services the site employs
    (Internet, "cloud", hosting, etc.) reserve the right to moderate
    the site's usage of their resources at the infrastructure level
