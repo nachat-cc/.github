@@ -4,8 +4,8 @@ Content Moderation
 
 Recovery deals with sick people, and naturally that will occasionally
 expose us to unpleasant, even malicious activities.  While we intend
-to profer all available tolerances, there are practical limits to such
-an approach.  We attempt to deal with the subject of moderating volation
+to proffer all available tolerances, there are practical limits to such
+an approach.  We attempt to deal with the subject of moderating violation
 of those limits here.
 
 Entitlement
@@ -23,7 +23,7 @@ for any reason at any time.
 Free Speech
 -----------
 
-There is no "free speech" or "first ammendment" case on the site:
+There is no "free speech" or "first amendment" case on the site:
 
 *  Harmful speech is not protected
 *  Protections are against *government* interference
@@ -62,7 +62,7 @@ Bannable Offenses
 
 Offenses that may result in a ban include but are not limited to:
 
-*  Harrassment
+*  Harassment
 *  Threats
 *  Programmatic or automated activity (bots, auto-responders, etc.)
 *  Using nicknames as messages
@@ -129,8 +129,8 @@ Terms of Consequence Guidelines
 When determining the parameters of a ban, moderators should consider
 the following points:
 
-*  Wherever possible, redirections ("chante the topic") and warnings
-   should be issued before, or in leiu of bans
+*  Wherever possible, redirections ("change the topic") and warnings
+   should be issued before, or in lieu of bans
 *  Warnings may be skipped for users or offenses where they have proven
    ineffective or the offense is severe
 *  The warning should have time to be read before escalating to
